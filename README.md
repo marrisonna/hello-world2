@@ -8,6 +8,8 @@ Change made in branch
 2nd branch change
 3rd branch change
 
+Branch2 change
+
 Removed by main
 
 Change made in main
